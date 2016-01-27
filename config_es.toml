@@ -1,4 +1,4 @@
-baseurl = "http://journal.roperzh.com"
+baseurl = "http://journal-es.netlify.com/"
 languageCode = "es"
 title = "FIXME: we need a title"
 contentdir = "content/es"
