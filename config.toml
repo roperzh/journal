@@ -1,0 +1,4 @@
+baseurl = "http://journal.roperzh.com"
+languageCode = "en-us"
+title = "FIXME: we need a title"
+theme="vienna"
