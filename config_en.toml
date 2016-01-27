@@ -1,4 +1,9 @@
 baseurl = "http://journal.roperzh.com"
 languageCode = "en-us"
 title = "FIXME: we need a title"
+contentdir = "content/en"
+publishdir = "public/en"
 theme="vienna"
+
+[params]
+    locale = "en-us"

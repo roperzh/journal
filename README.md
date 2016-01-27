@@ -16,10 +16,10 @@ Clone the repository:
 ```
 $ git clone https://github.com/roperzh/journal.git
 ```
-run the Hugo server:
+run the Hugo server specifying the language (`es` or `en`)
 
 ```
-$ hugo -w -buildDrafts
+$ make watch l=es
 ```
 
 Finally, visit http://localhost:1313 on your browser
