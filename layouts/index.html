@@ -1,0 +1,51 @@
+{{ partial "header.html" . }}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/0.6.0/lunr.min.js"></script>
+
+<script>
+ function getSource() {
+     var pages = [];
+     {{range .Site.Pages}}
+     pages.push({
+         "title": {{.Title}},
+         "date": {{.Date.Format "Jan 2"}},
+         "content": {{.Plain}},
+         "href": {{.RelPermalink}}
+     })
+     {{end}}
+     return pages
+ }
+ function initLunr(pages) {
+     var idx = lunr(function() {
+         this.field("title", {boost: 10});
+         this.field("content");
+         this.ref("href");
+     });
+     pages.forEach(function(page) {
+         idx.add(page);
+     })
+     return idx
+ }
+ function search(idx, term, pages) {
+     return idx.search(term).map(function(result) {
+         return pages.filter(function(page) {
+             return page.href === result.ref;
+         })[0];
+     });
+ }
+ (function (pages) {
+     var lunr = initLunr(pages);
+     console.log("search for hello", search(lunr, "hello", pages));
+ })(getSource())
+</script>
+
+<div class="article-list">
+  {{ range $index, $page := .Paginator.Pages }}
+  {{ if ne $index 0 }}
+  <hr/>
+  {{ end }}
+  {{ .Render "li" }}
+  {{ end }}
+</div>
+{{ partial "pagination.html" .Paginator }}
+{{ partial "footer.html" . }}
