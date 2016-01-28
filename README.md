@@ -24,5 +24,19 @@ $ make watch l=es
 
 Finally, visit http://localhost:1313 on your browser
 
+### Deployment
+
+First you need to install the [netlify](netlify.com) cli:
+
+```
+$ npm install netlify-cli -g
+```
+
+and then run the deploy:
+
+```
+$ make deploy
+```
+
 [1]: http://journal.roperzh.com
 [2]: http://gohugo.io
