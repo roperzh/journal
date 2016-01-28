@@ -1,6 +1,6 @@
-baseurl = "http://journal-en.netlify.com/"
+baseurl = "http://www.journal.roperzh.com/en/"
 languageCode = "en-us"
-title = "FIXME: we need a title"
+title = "Merging the merge"
 contentdir = "content/en"
 publishdir = "public/en"
 theme="vienna"
