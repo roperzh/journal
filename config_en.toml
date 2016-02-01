@@ -1,9 +1,12 @@
-baseurl = "http://www.journal.roperzh.com/en/"
+baseurl = "http://journal.roperzh.com/en/"
 languageCode = "en-us"
 title = "Merging the merge"
 contentdir = "content/en"
 publishdir = "public/en"
-theme="vienna"
+theme="journal-theme"
+copyright="&copy; Copyright 2016 Roberto Dip"
 
 [params]
     locale = "en-us"
+    twitter = "roperzh"
+    github = "roperzh"

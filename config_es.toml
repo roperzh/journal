@@ -3,7 +3,11 @@ languageCode = "es"
 title = "Merging the merge"
 contentdir = "content/es"
 publishdir = "public/es"
-theme="vienna"
+theme="journal-theme"
+copyright="&copy; Copyright 2016 Roberto Dip"
 
 [params]
     locale = "es"
+    twitter = "roperzh"
+    github = "roperzh"
+
