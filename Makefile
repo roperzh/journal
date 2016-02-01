@@ -10,4 +10,5 @@ build-all:
 	make build l=es
 
 deploy: build-all
-	netlify deploy -s journal -p public
+	cp static/_redirects public
+	netlify deploy -s journal -p ./public/
