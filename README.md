@@ -22,7 +22,7 @@ run the Hugo server specifying the language (`es` or `en`)
 $ make watch l=es
 ```
 
-Finally, visit http://localhost:1313 on your browser
+Finally, visit http://localhost:1313/es on your browser
 
 ### Deployment
 
