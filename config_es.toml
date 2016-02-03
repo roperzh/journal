@@ -3,11 +3,12 @@ languageCode = "es"
 title = "Merging the merge"
 contentdir = "content/es"
 publishdir = "public/es"
-theme="journal-theme"
-copyright="&copy; Copyright 2016 Roberto Dip"
+theme = "journal-theme"
+copyright = "&copy; Copyright 2016 Roberto Dip"
+googleAnalytics = "UA-73160048-2"
 
 [params]
     locale = "es"
     twitter = "roperzh"
     github = "roperzh"
-
+    disqusShortname = "journal-roperzh-es"
