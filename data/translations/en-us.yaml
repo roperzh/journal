@@ -1,0 +1,7 @@
+postsTitle: "Posts"
+ramblesTitle: "Rambles"
+menu:
+  subscribe: "subscribe"
+  search: "search"
+search:
+  placeholder: "type to search"

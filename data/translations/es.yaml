@@ -1,0 +1,7 @@
+postsTitle: "Posts"
+ramblesTitle: "Viajes"
+menu:
+  subscribe: "subscribirse"
+  search: "buscar"
+search:
+  placeholder: "escribe para buscar"
