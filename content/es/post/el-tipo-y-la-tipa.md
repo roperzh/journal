@@ -2,7 +2,7 @@
 Description = ""
 Tags = []
 date = "2016-04-11T12:14:01-03:00"
-title = "La Cofradía Ecuador (o el Tipo y la Tipa)"
+title = "el Tipo y la Tipa"
 
 +++
 
