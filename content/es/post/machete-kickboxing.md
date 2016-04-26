@@ -6,41 +6,30 @@ title = "machete de kickboxing"
 
 +++
 
-Ayuda memoria con términos en Japonés y videos<!--more-->
+Después de sentirme perdido entre tanto Japonés, decidí hacer un ayuda memoria con los términos más usados<!--more-->, aquí una pequeña recopilación que pienso ir actualizando y expandiendo.
 
 ### Golpes de puño (Tsuki or Zuki)
 
-Japones         | Español         | Video
+Japonés         | Traducción      | Video
 --------------- | --------------- | -----------
-Gyaku Zuki      | Reverse Punch   | [ver](http://placehold.it)
-Oi Zuki         | Lunge Punch     | [ver](http://placehold.it)
-Kizami Zuki     | Jabbing Punch   | [ver](http://placehold.it)
-Ura Zuki        | Uppercut Punch  | [ver](http://placehold.it)
-Dan Zuki        | Consecutive punching (same hand) | [ver](http://placehold.it)
-Yama Zuki       | U Punch         | [ver](http://placehold.it)
-Choku Zuki      | Straight Punch  | [ver](http://placehold.it)
-Awase Zuki      | Wide U Punch    | [ver](http://placehold.it)
-Heiko Zuki      | Parallel Punch  | [ver](http://placehold.it)
-Ren Zuki        | Alternate punching | [ver](http://placehold.it)
-Kage Zuki       | Hook Punch      | [ver](http://placehold.it)
+Mae Zuki        | Punteo / Jab    | <a href="https://youtu.be/hq0tGu27SmE?t=1m28s" target="_blank">ver</a>
+Gyaku Zuki      | Cruzado / Cross | <a href="https://youtu.be/hq0tGu27SmE?t=3m39s" target="_blank">ver</a>
+Mawashi Zuki    | Hook            | <a href="https://youtu.be/hq0tGu27SmE?t=4m38s" target="_blank">ver</a>
+Ura Zuki        | Uppercut        | <a href="https://youtu.be/tfUthyflgoU?t=2m8s" target="_blank">ver</a>
 
 ### Patadas (Geri)
 
-Japones         | Español         | Video
+Japonés         | Traducción      | Video
 --------------- | --------------- | -----------
-Mae Geri        | Front Kick      | [ver](http://placehold.it)
-Yoko Geri Keage | Side Snap Kick  | [ver](http://placehold.it)
-Yoko Geri Kekomi| Side Thrust Kick| [ver](http://placehold.it)
-Mawashi Geri    | Roundhouse Kick | [ver](http://placehold.it)
-Ushiro Geri     | Back Kick       | [ver](http://placehold.it)
-Mikazuki Geri   | Crescent Kick   | [ver](http://placehold.it)
-Ushiro Mawashi Geri | Reverse Roundhouse Kick | [ver](http://placehold.it)
-Nidan Geri      | Double Kick     | [ver](http://placehold.it)
-Mae Geri Keage  | Front Snapping Kick | [ver](http://placehold.it)
+Mae Geri        | Front Kick      | <a href="https://youtu.be/yEahzq_MUZU" target="_blank">ver</a>
+Yoko Geri       | Side Snap Kick  | <a href="http://placehold.it" target="_blank">ver</a>
+Mawashi Geri    | Roundhouse Kick | <a href="https://youtu.be/R0WcFxtKFj8" target="_blank">ver</a>
+Mikazuki Geri   | Crescent Kick   | <a href="http://placehold.it" target="_blank">ver</a>
+Ushiro Mawashi Geri | Reverse Roundhouse Kick | <a href="http://placehold.it" target="_blank">ver</a>
 
 ### Números
 
-Numeral       | Japones
+Numeral       | Japonés
 ------------- | -------------
 1             | 一 (ichi)
 2             | 二 (ni)
@@ -73,7 +62,7 @@ Numeral       | Japones
 
 ### Direcciones
 
-Japones       | Español
+Japonés       | Traducción
 ------------- | -------------
 Age / Jodan   | Alto
 Chudan        | Medio
@@ -90,7 +79,7 @@ Yoko          | Oblicuo
 
 ### Otros
 
-Japones         | Español
+Japonés         | Traducción
 --------------- | ---------------
 Dojo            | Lugar de entrenamiento
 Sensei          | Profesor

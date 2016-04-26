@@ -5,3 +5,6 @@ menu:
   search: "buscar"
 search:
   placeholder: "escribe para buscar"
+pagination:
+  next: Siguiente
+  prev: Anterior

@@ -5,3 +5,6 @@ menu:
   search: "search"
 search:
   placeholder: "type to search"
+pagination:
+  next: Newer
+  prev: Older
